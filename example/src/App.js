@@ -1,17 +1,14 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 
-import CypherText from 'react-cypher-text'
+import CypherText from 'react-cypher-text-loop'
 
 export default class App extends Component {
   render() {
     return (
       <Wrapper>
         <Container>
-          <CypherTextStyled
-            textList={['React', 'Cypher', 'Text', 'Loop']}
-            placeholderColor="#000"
-          />
+          <CypherTextStyled textList={['React', 'Cypher', 'Text', 'Loop']} />
         </Container>
 
         <Container>

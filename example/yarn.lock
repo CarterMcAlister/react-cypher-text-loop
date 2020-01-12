@@ -6434,7 +6434,7 @@ rc@^1.0.1, rc@^1.1.6:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-"react-cypher-text@link:..":
+"react-cypher-text-loop@link:..":
   version "0.0.0"
   uid ""
 

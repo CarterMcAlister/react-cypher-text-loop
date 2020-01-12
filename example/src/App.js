@@ -1,12 +1,13 @@
 import React, { Component } from 'react'
+import styled from 'styled-components'
 
-import ExampleComponent from 'react-cypher-text'
+import CypherText from 'react-cypher-text'
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <CypherText textList={['React', 'Cypher', 'Text']} />
       </div>
     )
   }

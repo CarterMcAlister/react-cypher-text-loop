@@ -1,10 +1,10 @@
 {
-  "name": "react-cypher-text",
+  "name": "react-cypher-text-loop",
   "version": "1.0.0",
   "description": "",
   "author": "CarterMcAlister",
   "license": "MIT",
-  "repository": "CarterMcAlister/react-cypher-text",
+  "repository": "CarterMcAlister/react-cypher-text-loop",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

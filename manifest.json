@@ -1,6 +1,6 @@
 {
-  "short_name": "react-cypher-text",
-  "name": "react-cypher-text",
+  "short_name": "react-cypher-text-loop",
+  "name": "react-cypher-text-loop",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
